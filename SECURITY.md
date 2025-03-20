@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions (to review)
 
 We recommend users to always use the latest major version. Security updates will be provided for the current major version until the next major version is released.
 
